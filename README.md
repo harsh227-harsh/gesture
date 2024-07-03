@@ -9,4 +9,4 @@ For instance, with Hammer.js, you might set up event listeners for specific gest
 SINGLE HAND GESTURE = ✌️ ||  🖐  || ✊️
 MULTIPLE HAND GESTURE = 🙅
 
-![Screenshot 2023-11-25 152024](https://github.com/AkshatCodeVortex/Gesture-Recognizer/assets/96902325/2c310f24-0257-4edf-926e-2b8b6d7d4480)
+
